@@ -1,0 +1,10 @@
+[package]
+
+name = "fizzbuzz"
+version = "0.1.0"
+authors = [ "Matt Kottre <mattkottre@icloud.com>" ]
+
+[[bin]]
+
+name = "fizzbuzz"
+path = "src/main.rs"
